@@ -4,7 +4,7 @@ Images for HuntHelper
 Dawntrail data can be viewed at: https://ireallywanttostayatyourhou.se/dawntrail
 
 
-ARR-EW Images from: [cablemonkey.us/huntmap2/](!)  
+ARR-EW Images from: https://cablemonkey.us/huntmap2/  
 Credit to Cable Monkey @ Goblin
 
 <details>
