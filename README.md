@@ -1,7 +1,10 @@
 # HuntHelper-Resources
 Images for HuntHelper
 
-Images from: [cablemonkey.us/huntmap2/](!)  
+Dawntrail data can be viewed at: https://ireallywanttostayatyourhou.se/dawntrail
+
+
+ARR-EW Images from: [cablemonkey.us/huntmap2/](!)  
 Credit to Cable Monkey @ Goblin
 
 <details>
